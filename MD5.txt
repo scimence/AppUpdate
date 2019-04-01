@@ -1,0 +1,16 @@
+﻿服务器资源目录(https://gitee.com/scimence/AppUpdate/raw/master/)
+本地资源目录(F:\tmp\AppUpdate\)
+
+待更新文件(
+
+.gitignore(c6d25b9949865c42dcb73c02cc642ddb)
+AppUpdate.jar(3ee7c73e22606b53698f9fd230060a68)
+LICENSE(22f0fdd2cd7ae7af5c8fae80d22e531b)
+README.en.md(6c4277320979fe7298c7bc53b3ac27ac)
+README.md(11a919b7493cc0d3e0544623f32a3338)
+src/com/sc/update/AppUpdate.java(cfe1e16afa0e5dcf0a56d64b0b7f0eb1)
+src/com/sc/update/DownloadTool.java(f5822ec031ea8f0e19133c719a606a92)
+src/com/sc/update/ThreadTool.java(fba313b95b5e52e7ced55f87799c0c0a)
+src/com/sc/update/WebTool.java(d5278d369f3b9d7dfb348e733668288f)
+
+)待更新文件
